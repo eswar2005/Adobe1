@@ -42,9 +42,10 @@ Challenge_1a/
 │   ├── pdfs/            # Input PDF files
 │   └── schema/          # Output schema definition
 │       └── output_schema.json
-├── Dockerfile           # Docker container configuration
+├
 ├── process_pdfs.py      # Sample processing script
 └── README.md           # This file
+|--Dockerfile           # Docker container configuration
 ```
 
 ## Sample Implementation
